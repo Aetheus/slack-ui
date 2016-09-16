@@ -1,7 +1,7 @@
 {
   "name": "slack-ui-alter",
   "theme": "ui",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "An altered slack-ui theme (original by tony-jones found here: https://github.com/tony-jones/slack-ui)",
   "keywords": [
     "ui",
