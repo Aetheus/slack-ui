@@ -1,6 +1,9 @@
 # Slack UI Alter
 
 A tweaked version of the original slack-ui theme by tony-jones (https://github.com/tony-jones/slack-ui).
+While tony-jones' original theme was great, I had a few minor (purely cosmetic) tweaks that I wanted, which
+is why I forked this out.
+
 His original README.md (as it was during the time this was forked) is preserved below:
 
 ---------------------------------------------------------------------------------------------------------
