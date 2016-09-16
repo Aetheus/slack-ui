@@ -1,4 +1,9 @@
-# Slack UI
+# Slack UI Alter
+
+A tweaked version of the original slack-ui theme by tony-jones (https://github.com/tony-jones/slack-ui).
+His original README.md (as it was during the time this was forked) is preserved below:
+
+---------------------------------------------------------------------------------------------------------
 
 A light UI theme for Atom that is inspired by Slack's aubergine theme.
 https://atom.io/themes/slack-ui
@@ -16,7 +21,7 @@ https://atom.io/themes/slack-ui
 
 Fire up a console and type:
 
-`$ apm install slack-ui` 
+`$ apm install slack-ui`
 
 Or, inside Atom's settings select Install and then search for this package.
 
@@ -29,7 +34,7 @@ Use with Atom's 'Atom Light' Syntax theme.
 ## Contributing
 Contributions, questions and comments are all welcome and encouraged. For code contributions, please submit a [pull request](https://github.com/tony-jones/slack-ui/pulls). Related issues, bugs, and feature requests should be filed on the [Slack-UI](https://github.com/tony-jones/slack-ui/issues/new) issue tracker.
 
-If you like the theme, I'd appreciate you [Sharing with others on Twitter](https://twitter.com/intent/tweet?text=Slack%20UI,%20a%20light%20Atom%20theme%20inspired%20by%20Slack's%20Aubergine%20sidebar%20theme&url=http%3A%2F%2Fatom.io/themes/slack-ui&via=iamtonybagels)! 
+If you like the theme, I'd appreciate you [Sharing with others on Twitter](https://twitter.com/intent/tweet?text=Slack%20UI,%20a%20light%20Atom%20theme%20inspired%20by%20Slack's%20Aubergine%20sidebar%20theme&url=http%3A%2F%2Fatom.io/themes/slack-ui&via=iamtonybagels)!
 
 ## Change Log
 No v1.0.0 Yet Released
